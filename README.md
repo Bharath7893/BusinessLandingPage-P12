@@ -2,11 +2,10 @@
 Webpage built using HTML &amp; CSS without any frameworks.
 
 ## While building this page--Learnt:
-- How to fix an image at the bottom of the page one using positioning.
-- Learned about positions: absolute, relative and fixed.
+- Learned about containers and positioning images.
 
 ## Time taken for completion:
-### 8 hours
+### 10 hours
 
 ## 💻 Tech Stack Used :
 
